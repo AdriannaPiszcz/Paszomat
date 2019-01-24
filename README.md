@@ -1,3 +1,2 @@
 # Paszomat
-Aplikacja wspomagająca żywienie koni /n
-Inżynierska praca dyplomowa
+Aplikacja wspomagająca żywienie koni
