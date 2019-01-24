@@ -1,0 +1,17 @@
+<Question>
+	<Text>Określ do jakiej grupy należy klacz, dla której mam przygotować dietę</Text>
+	<Answers>
+		<Answer>
+			<Text>klacz we wczesnej ciąży</Text>
+			<Diet>Diety/Zrebne_karmiace/40.txt</Diet>
+		</Answer>
+		<Answer>
+			<Text>klacz w zaawansowanej ciąży</Text>
+			<Diet>Diety/Zrebne_karmiace/41.txt</Diet>
+		</Answer>
+		<Answer>
+			<Text>klacz karmiąca</Text>
+			<Diet>Diety/Zrebne_karmiace/42.txt</Diet>
+		</Answer>
+	</Answers>
+</Question>

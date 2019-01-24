@@ -1,0 +1,318 @@
+<Question>
+	<Text>Określ przynależność do grupy rasowej konia, dla którego mam przygotować dietę</Text>
+	<Answers>
+		<Answer>
+			<Text>konie zimnokrwiste</Text>
+			<Question>
+				<Text>Określ częstotliwość pracy konia, dla którego mam przygotować dietę</Text>
+				<Answers>
+					<Answer>
+						<Text>wysoka</Text>
+						<Question>
+							<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+							<Answers>
+								<Answer>
+									<Text>zaprzęg i rolnictwo</Text>
+									<Diet>Diety/Robocze/1.txt</Diet>
+								</Answer>
+								<Answer>
+									<Text>sport i rekreacja</Text>
+									<Diet>Diety/Robocze/2.txt</Diet>
+								</Answer>
+								
+							</Answers>
+						</Question>
+					</Answer>
+					<Answer>
+						<Text>średnia</Text>
+						<Question>
+							<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+							<Answers>
+								<Answer>
+									<Text>zaprzęg i rolnictwo</Text>
+									<Diet>Diety/Robocze/3.txt</Diet>
+								</Answer>
+								<Answer>
+									<Text>sport i rekreacja</Text>
+									<Diet>Diety/Robocze/4.txt</Diet>
+								</Answer>
+								
+							</Answers>
+						</Question>
+					</Answer>
+					<Answer>
+						<Text>niska</Text>
+						<Question>
+							<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+							<Answers>
+								<Answer>
+									<Text>zaprzęg i rolnictwo</Text>
+									<Diet>Diety/Robocze/5.txt</Diet>
+								</Answer>
+								<Answer>
+									<Text>sport i rekreacja</Text>
+									<Diet>Diety/Robocze/6.txt</Diet>
+								</Answer>
+								
+							</Answers>
+						</Question>
+					</Answer>
+				</Answers>
+			</Question>
+		</Answer>
+		<Answer>
+			<Text>konie gorącokrwiste</Text>
+			<Question>
+				<Text>Określ częstotliwość pracy konia, dla którego mam przygotować dietę</Text>
+				<Answers>
+					<Answer>
+						<Text>wysoka</Text>
+						<Question>
+							<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+							<Answers>
+								<Answer>
+									<Text>rekreacja</Text>
+									<Diet>Diety/Robocze/7.txt</Diet>
+								</Answer>
+								<Answer>
+									<Text>sport</Text>
+									<Diet>Diety/Robocze/8.txt</Diet>
+								</Answer>
+								
+							</Answers>
+						</Question>
+					</Answer>
+					<Answer>
+						<Text>średnia</Text>
+						<Question>
+							<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+							<Answers>
+								<Answer>
+									<Text>rekreacja</Text>
+									<Diet>Diety/Robocze/9.txt</Diet>
+								</Answer>
+								<Answer>
+									<Text>sport</Text>
+									<Diet>Diety/Robocze/10.txt</Diet>
+								</Answer>
+								
+							</Answers>
+						</Question>
+					</Answer>
+					<Answer>
+						<Text>niska</Text>
+						<Question>
+							<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+							<Answers>
+								<Answer>
+									<Text>rekreacja</Text>
+									<Diet>Diety/Robocze/11.txt</Diet>
+								</Answer>
+								<Answer>
+									<Text>sport</Text>
+									<Diet>Diety/Robocze/12.txt</Diet>
+								</Answer>
+								
+							</Answers>
+						</Question>
+					</Answer>
+				</Answers>
+			</Question>
+		</Answer>
+		<Answer>
+			<Text>małe konie i kuce</Text>
+			<Question>
+				<Text>Określ sezon, w którym chcesz stosować przygotowaną dietę</Text>
+				<Answers>
+					<Answer>
+						<Text>zimowy</Text>
+						<Question>
+							<Text>Określ rodzaj chowu konia</Text>
+							<Answers>
+								<Answer>
+									<Text>chów stajenny</Text>
+									<Question>
+										<Text>Określ częstotliwość pracy konia, dla którego mam przygotować dietę</Text>
+										<Answers>
+											<Answer>
+												<Text>wysoka</Text>
+												<Question>
+													<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+													<Answers>
+														<Answer>
+															<Text>rekreacja</Text>
+															<Diet>Diety/Robocze/13.txt</Diet>
+														</Answer>
+														<Answer>
+															<Text>sport</Text>
+															<Diet>Diety/Robocze/14.txt</Diet>
+														</Answer>
+								
+													</Answers>
+												</Question>
+											</Answer>
+											<Answer>
+												<Text>średnia</Text>
+												<Question>
+													<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+													<Answers>
+														<Answer>
+															<Text>rekreacja</Text>
+															<Diet>Diety/Robocze/15.txt</Diet>
+														</Answer>
+														<Answer>
+															<Text>sport</Text>
+															<Diet>Diety/Robocze/16.txt</Diet>
+														</Answer>
+								
+													</Answers>
+												</Question>
+											</Answer>
+											<Answer>
+												<Text>niska</Text>
+												<Question>
+													<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+													<Answers>
+														<Answer>
+															<Text>rekreacja</Text>
+															<Diet>Diety/Robocze/17.txt</Diet>
+														</Answer>
+														<Answer>
+															<Text>sport</Text>
+															<Diet>Diety/Robocze/18.txt</Diet>
+														</Answer>
+								
+													</Answers>
+												</Question>
+											</Answer>
+										</Answers>
+									</Question>
+								</Answer>
+								<Answer>
+									<Text>chów bezstajenny</Text>
+								<Question>
+										<Text>Określ częstotliwość pracy konia, dla którego mam przygotować dietę</Text>
+										<Answers>
+											<Answer>
+												<Text>wysoka</Text>
+												<Question>
+													<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+													<Answers>
+														<Answer>
+															<Text>rekreacja</Text>
+															<Diet>Diety/Robocze/19.txt</Diet>
+														</Answer>
+														<Answer>
+															<Text>sport</Text>
+															<Diet>Diety/Robocze/20.txt</Diet>
+														</Answer>
+								
+													</Answers>
+												</Question>
+											</Answer>
+											<Answer>
+												<Text>średnia</Text>
+												<Question>
+													<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+													<Answers>
+														<Answer>
+															<Text>rekreacja</Text>
+															<Diet>Diety/Robocze/21.txt</Diet>
+														</Answer>
+														<Answer>
+															<Text>sport</Text>
+															<Diet>Diety/Robocze/22.txt</Diet>
+														</Answer>
+								
+													</Answers>
+												</Question>
+											</Answer>
+											<Answer>
+												<Text>niska</Text>
+												<Question>
+													<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+													<Answers>
+														<Answer>
+															<Text>rekreacja</Text>
+															<Diet>Diety/Robocze/23.txt</Diet>
+														</Answer>
+														<Answer>
+															<Text>sport</Text>
+															<Diet>Diety/Robocze/24.txt</Diet>
+														</Answer>
+								
+													</Answers>
+												</Question>
+											</Answer>
+										</Answers>
+									</Question>
+								</Answer>
+								
+							</Answers>
+						</Question>
+					</Answer>
+					<Answer>
+						<Text>letni</Text>
+						<Question>
+							<Text>Określ częstotliwość pracy konia, dla którego mam przygotować dietę</Text>
+							<Answers>
+								<Answer>
+									<Text>wysoka</Text>
+									<Question>
+										<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+										<Answers>
+											<Answer>
+												<Text>rekreacja</Text>
+												<Diet>Diety/Robocze/25.txt</Diet>
+											</Answer>
+											<Answer>
+												<Text>sport</Text>
+												<Diet>Diety/Robocze/26.txt</Diet>
+											</Answer>
+								
+										</Answers>
+									</Question>
+								</Answer>
+								<Answer>
+									<Text>średnia</Text>
+									<Question>
+										<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+										<Answers>
+											<Answer>
+												<Text>rekreacja</Text>
+												<Diet>Diety/Robocze/27.txt</Diet>
+											</Answer>
+											<Answer>
+												<Text>sport</Text>
+												<Diet>Diety/Robocze/28.txt</Diet>
+											</Answer>
+								
+										</Answers>
+									</Question>
+								</Answer>
+								<Answer>
+									<Text>niska</Text>
+									<Question>
+										<Text>Określ intensywność pracy konia, dla którego mam przygotować dietę</Text>
+										<Answers>
+											<Answer>
+												<Text>rekreacja</Text>
+												<Diet>Diety/Robocze/29.txt</Diet>
+											</Answer>
+											<Answer>
+												<Text>sport</Text>
+												<Diet>Diety/Robocze/30.txt</Diet>
+											</Answer>
+								
+										</Answers>
+									</Question>
+								</Answer>
+							</Answers>
+						</Question>
+					</Answer>
+					
+				</Answers>
+			</Question>
+		</Answer>
+	</Answers>
+</Question>

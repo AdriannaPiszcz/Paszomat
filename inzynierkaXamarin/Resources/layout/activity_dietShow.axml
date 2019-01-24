@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@drawable/show">
+	
+	<TextView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/label"
+		android:layout_marginTop="80dp"
+		android:layout_marginRight="30dp"
+		android:layout_marginLeft="50dp"
+		android:layout_marginBottom="50dp"
+		android:textColor="#281602"
+		android:fontFamily="Unna-Regular.ttf#Unna"
+		android:textSize="22sp"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/diet" />
+	<EditText
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:hint="Podaj imię konia"
+		android:layout_alignParentBottom="true"
+		android:layout_marginBottom="70dp"
+		android:layout_marginRight="30dp"
+		android:layout_marginLeft="50dp"
+		android:textColor="#281602"
+		android:fontFamily="Unna-Regular.ttf#Unna"
+		android:textSize="22sp"
+		android:id="@+id/name"
+		android:inputType="textPersonName" 
+	/>
+	<Button
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="ZAPISZ"
+		android:layout_alignParentBottom="true"
+		android:layout_marginBottom="30dp"
+		android:layout_marginRight="30dp"
+		android:layout_marginLeft="50dp"
+		android:textColor="#281602"
+		android:background="#f7d9b9"
+		android:textStyle="bold"
+		android:fontFamily="Unna-Regular.ttf#Unna"
+		android:textSize="18sp"
+		android:id="@+id/save"
+	/>
+
+
+</RelativeLayout>

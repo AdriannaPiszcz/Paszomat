@@ -1,0 +1,53 @@
+<Question>
+  <Text>Podaj płeć konia, dla którego mam przygotować dietę</Text>
+  <Answers>
+    <Answer>
+      <Text>wałach</Text>
+	  <Path>path3</Path>
+    </Answer>
+    <Answer>
+      <Text>ogier</Text>
+      <Question>
+        <Text>Określ w jakim sezonie ma być stosowana ta dieta</Text>
+		<Answers>
+			<Answer>
+			<Text>w sezonie kopulacyjnym</Text>
+			<Path>path1</Path>
+			</Answer>
+			<Answer>
+			<Text>poza sezonem kopulacyjnym</Text>
+			<Path>path3</Path>
+			</Answer>
+		</Answers>
+      </Question>
+    </Answer>
+    <Answer>
+      <Text>klacz</Text>
+	  <Question>
+        <Text>Określ stan klaczy, dla której mam przygotować dietę</Text>
+		<Answers>
+			<Answer>
+			<Text>źrebna lub karmiąca</Text>
+			<Question>
+			<Text>Określ, w którym miesiącu ciąży jest klacz, dla której mam przygotować dietę</Text>
+			<Answers>
+				<Answer>
+				<Text>źrebna do 4 msc ciąży</Text>
+				<Path>path3</Path>
+				</Answer>
+				<Answer>
+				<Text>źrebna po 4 msc ciąży lub karmiąca</Text>
+				<Path>path2</Path>
+				</Answer>
+			</Answers>
+			</Question>
+			</Answer>
+			<Answer>
+			<Text>niekryta</Text>
+			<Path>path3</Path>
+			</Answer>
+		</Answers>
+      </Question>
+			</Answer>
+  </Answers>  
+</Question>

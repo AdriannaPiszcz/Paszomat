@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="inzynierkaXamarin.Answer">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIEAAAAAAAAAAAAAAAEAAAACAAAAgA=</HashCode>
+      <FileName>Answer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Question" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="inzynierkaXamarin.DataProcessing">
+    <Position X="10" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAQAAEAAEAAAAAAAAAIAQAABAAAAA=</HashCode>
+      <FileName>DataProcessing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="inzynierkaXamarin.ExpertSystemActivity">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABBAAAOEAAAEAAAAcAgAAECQAAAAAQAAAAAAAgAA=</HashCode>
+      <FileName>ExpertSystemActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="inzynierkaXamarin.MainActivity">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>MainActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="inzynierkaXamarin.Question">
+    <Position X="4" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="inzynierkaXamarin.Question.OnNewAnswerDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Question.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="inzynierkaXamarin.Question.OnInactiveButtonDelegate">
+        <TypeIdentifier>
+          <NewMemberFileName>Question.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="inzynierkaXamarin.Question.OnNewQuestionDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Question.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="inzynierkaXamarin.Question.OnDietGetDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Question.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAABAAJAQAAAAAAAAAAQAIAAAAAAAQQQAAACCAAAAA=</HashCode>
+      <FileName>Question.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Answers" />
+      <Property Name="Parent" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="inzynierkaXamarin.ServiceXml">
+    <Position X="7.25" Y="7" Width="2.25" />
+    <NestedTypes>
+      <Class Name="inzynierkaXamarin.ServiceXml.Utf8StringWriter" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ServiceXml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ServiceXml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="inzynierkaXamarin.LoadData">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCBAwCAAAAAAAAAAIAAAAAAAAABAAAAAAQA=</HashCode>
+      <FileName>LoadData.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="core" />
+      <Field Name="path1" />
+      <Field Name="path2" />
+      <Field Name="path3" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

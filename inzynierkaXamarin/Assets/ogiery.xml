@@ -1,0 +1,65 @@
+<Question>
+	<Text>Podaj częstotliwość kryć ogiera, dla którego mam przygotować dietę</Text>
+	<Answers>
+		<Answer>
+			<Text>wysoka</Text>
+			<Question>
+				<Text>Określ masę konia, dla którego mam przygotować dietę</Text>
+				<Answers>
+					<Answer>
+						<Text>nadwaga</Text>
+						<Diet>Diety/Rozplodowe/31.txt</Diet>
+					</Answer>
+					<Answer>
+						<Text>waga prawidłowa</Text>
+						<Diet>Diety/Rozplodowe/32.txt</Diet>
+					</Answer>
+					<Answer>
+						<Text>niedowaga</Text>
+						<Diet>Diety/Rozplodowe/33.txt</Diet>
+					</Answer>
+				</Answers>
+			</Question>
+		</Answer>
+		<Answer>
+			<Text>średnia</Text>
+			<Question>
+				<Text>Określ masę konia, dla którego mam przygotować dietę</Text>
+				<Answers>
+					<Answer>
+						<Text>nadwaga</Text>
+						<Diet>Diety/Rozplodowe/34.txt</Diet>
+					</Answer>
+					<Answer>
+						<Text>waga prawidłowa</Text>
+						<Diet>Diety/Rozplodowe/35.txt</Diet>
+					</Answer>
+					<Answer>
+						<Text>niedowaga</Text>
+						<Diet>Diety/Rozplodowe/36.txt</Diet>
+					</Answer>
+				</Answers>
+			</Question>
+		</Answer>
+		<Answer>
+			<Text>niska</Text>
+			<Question>
+				<Text>Określ masę konia, dla którego mam przygotować dietę</Text>
+				<Answers>
+					<Answer>
+						<Text>nadwaga</Text>
+						<Diet>Diety/Rozplodowe/37.txt</Diet>
+					</Answer>
+					<Answer>
+						<Text>waga prawidłowa</Text>
+						<Diet>Diety/Rozplodowe/38.txt</Diet>
+					</Answer>
+					<Answer>
+						<Text>niedowaga</Text>
+						<Diet>Diety/Rozplodowe/39.txt</Diet>
+					</Answer>
+				</Answers>
+			</Question>
+		</Answer>
+	</Answers>
+</Question>
