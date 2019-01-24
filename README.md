@@ -1,2 +1,2 @@
 # Paszomat
-praca inżynierska
+Aplikacja wspomagająca żywienie koni
