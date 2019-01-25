@@ -34,8 +34,15 @@ namespace inzynierkaXamarin
 
         private void Browse_Click(object sender, System.EventArgs e)
         {
-            Intent i = new Intent(this, typeof(BrowseActivity));
-            StartActivity(i);
+            if (LoadData.NameDiet.Count > 0)
+            {
+                Intent i = new Intent(this, typeof(BrowseActivity));
+                StartActivity(i);
+            }
+            else
+            {
+                Toast.MakeText(this, "Brak zapisanych diet", ToastLength.Short).Show();
+            }
         }
 
         private void Generate_Click(object sender, System.EventArgs e)
