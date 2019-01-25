@@ -14,6 +14,12 @@ namespace inzynierkaXamarin
 
         private Button browse;
 
+        public override void OnBackPressed()
+        {
+            var activity = (Activity)this;
+            activity.FinishAffinity();
+        }
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);

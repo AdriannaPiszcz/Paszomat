@@ -57,7 +57,11 @@ namespace inzynierkaXamarin
             save.Diet = diet;
             try
             {
-                LoadData.NameDiet.TryAdd(name, diet);
+                if (!LoadData.NameDiet.TryAdd(name, diet))
+                {
+                    Toast.MakeText(this, "Dieta dla konia o tym imieniu została już zapisana!", ToastLength.Long).Show();
+                    return;
+                }
                 save.Read();
                 save.Save();
                 Toast.MakeText(this, "Zapisano pomyślnie!", ToastLength.Short).Show();
